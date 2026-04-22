@@ -49,7 +49,6 @@ Sales-Performance-Dashboard/
 
 Clone the repository:
 
-git clone https://github.com/your-username/sales-performance-dashboard.git
 Open the dashboard file using:
 Power BI (.pbix) OR
 Tableau (.twbx)
